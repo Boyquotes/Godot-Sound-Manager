@@ -1,5 +1,6 @@
 # Godot Sound Manager
-An easy and optimized way to manage your sound effects in the Godot Game Engine!
+An easy and optimized way to manage your sound effects in the Godot Game Engine! Just extract **GodotSoundManager.zip** and place inside the **addons** folder of your Godot project!
+
 Download the demo to see the most basic functions in action!
 
 # Variables
