@@ -4,7 +4,7 @@ Download the demo to see the most basic functions in action!
 
 # Variables
 
-MASTER - The master audio bus
+||MASTER|| - The master audio bus
 
 DEFAULT - The default audio group
 
