@@ -24,9 +24,11 @@ Changes whether or not the group it muted to value
 Returns muted value of group if group is in **muted_groups** dictionary, otherwise returns null
 
 **stop(group=DEFAULT) -> AudioStreamPlayer:**
+
 Stops all AudioStreamPlayers in group
 
 **get_player_volume(player) -> float:**
+
 Returns the bus volume of the player
 
 **set_player_volume(player, value) -> void:**
@@ -50,6 +52,7 @@ Forces player to play with variables corresponding to function values *NOTE: IGN
 Deletes items in **players** array that are not of type AudioStreamPlayer
 
 **update(new_count) -> void:**
+
 Changes the length of **players** array to new_count
 
 **free_in_queue(interrupt=true) -> void:**
